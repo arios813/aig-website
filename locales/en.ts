@@ -244,6 +244,7 @@ const en = {
       usName: 'United States',
       usAddress: 'American Investment Group SA\nConnecticut & Florida Operations',
       email: 'al.rios@amerinvesgroup.com',
+      email2: 'andrew.rios@amerinvesgroup.com',
     },
     disclaimer:
       "American Investment Group SA is an independent investment firm focused on Paraguay's real estate and agricultural markets. All investments involve risk. Please consult a licensed financial advisor before making investment decisions.",

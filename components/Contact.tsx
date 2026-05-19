@@ -117,9 +117,15 @@ export default function Contact() {
                 </div>
                 <a
                   href={`mailto:${c.offices.email}`}
-                  className="font-sans text-[14px] text-[#C4CDD6]/70 hover:text-[#C4CDD6] transition-colors duration-200 underline underline-offset-4 decoration-[#C4CDD6]/25"
+                  className="block font-sans text-[14px] text-[#C4CDD6]/70 hover:text-[#C4CDD6] transition-colors duration-200 underline underline-offset-4 decoration-[#C4CDD6]/25"
                 >
                   {c.offices.email}
+                </a>
+                <a
+                  href={`mailto:${c.offices.email2}`}
+                  className="block font-sans text-[14px] text-[#C4CDD6]/70 hover:text-[#C4CDD6] transition-colors duration-200 underline underline-offset-4 decoration-[#C4CDD6]/25 mt-1"
+                >
+                  {c.offices.email2}
                 </a>
               </div>
             </div>

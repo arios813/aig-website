@@ -9,7 +9,7 @@ export async function POST(request: Request) {
 
     await resend.emails.send({
       from: 'AIG Website <noreply@amerinvesgroup.com>',
-      to: 'al.rios@amerinvesgroup.com',
+      to: ['al.rios@amerinvesgroup.com', 'andrew.rios@amerinvesgroup.com'],
       replyTo: email,
       subject: `New Inquiry: ${interest || 'General'} — ${firstName} ${lastName}`,
       html: `
