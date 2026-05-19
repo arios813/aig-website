@@ -245,7 +245,7 @@ const es: Translations = {
       primaryAddress: 'American Investment Group Inc.\nAsunción, República del Paraguay',
       usName: 'Estados Unidos',
       usAddress: 'American Investment Group Inc.\nOperaciones en Connecticut y Florida',
-      email: 'info@americaninvestmentgroup.com',
+      email: 'al.rios@amerinvesgroup.com',
     },
     disclaimer:
       'American Investment Group Inc. es una firma de inversión independiente enfocada en los mercados inmobiliarios y agrícolas de Paraguay. Todas las inversiones conllevan riesgo. Consulte a un asesor financiero autorizado antes de tomar decisiones de inversión.',
