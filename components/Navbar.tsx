@@ -40,7 +40,7 @@ export default function Navbar() {
           <a
             href="#"
             className="flex items-center gap-3 group focus:outline-none focus-visible:ring-2 focus-visible:ring-[#C4CDD6] rounded"
-            aria-label="American Investment Group Inc. — Home"
+            aria-label="American Investment Group SA — Home"
           >
             <Logo size={36} className="transition-transform duration-300 group-hover:scale-105" />
             <div className="leading-tight">
@@ -51,7 +51,7 @@ export default function Navbar() {
                 American Investment
               </div>
               <div className="font-sans text-[#C4CDD6]/70 text-[10px] tracking-[0.22em] uppercase">
-                Group Inc.
+                Group SA
               </div>
             </div>
           </a>

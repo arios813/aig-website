@@ -11,7 +11,7 @@ export default function Logo({ size = 40, className = '' }: LogoProps) {
       viewBox="0 0 100 100"
       xmlns="http://www.w3.org/2000/svg"
       className={className}
-      aria-label="American Investment Group Inc. Logo"
+      aria-label="American Investment Group SA Logo"
     >
       {/* Outer platinum ring */}
       <circle

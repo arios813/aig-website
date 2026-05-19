@@ -25,7 +25,7 @@ export default function Footer() {
                   American Investment
                 </div>
                 <div className="font-sans text-[#C4CDD6]/55 text-[10px] tracking-[0.22em] uppercase">
-                  Group Inc.
+                  Group SA
                 </div>
               </div>
             </a>

@@ -1,5 +1,5 @@
 // ─────────────────────────────────────────────────────────────────────────────
-// ENGLISH — American Investment Group Inc.
+// ENGLISH — American Investment Group SA
 // To add a new language: duplicate this file, change the values, import it in
 // contexts/LanguageContext.tsx, and add the locale key to the Locale union.
 // ─────────────────────────────────────────────────────────────────────────────
@@ -19,7 +19,7 @@ const en = {
 
   // ── Hero ───────────────────────────────────────────────────────────────────
   hero: {
-    overline: 'American Investment Group Inc. · Asunción, Paraguay',
+    overline: 'American Investment Group SA · Asunción, Paraguay',
     headlineLine1: 'Investing in the',
     headlineItalic: 'Heart of',
     headlineLine3: 'South America',
@@ -38,7 +38,7 @@ const en = {
       eyebrow: 'The Founder',
       name: 'Alcides Rios',
       p1: 'Born in Paraguay, Alcides Rios carries a deep-rooted connection to his homeland that has shaped every chapter of his professional life. After earning his MBA in International Finance and Banking in 1998, he built a distinguished career spanning major corporations including Kodak, where he honed expertise in global business operations and financial strategy.',
-      p2: "In 2015, Alcides embraced entrepreneurship — bringing his corporate experience to bear in building ventures that create lasting value. Then, in 2023, a pivotal return trip to Paraguay reignited his vision for the country's extraordinary potential. He founded American Investment Group Inc. to serve as the bridge he always believed was needed: connecting North American capital and expertise with Paraguay's remarkable growth opportunities.",
+      p2: "In 2015, Alcides embraced entrepreneurship — bringing his corporate experience to bear in building ventures that create lasting value. Then, in 2023, a pivotal return trip to Paraguay reignited his vision for the country's extraordinary potential. He founded American Investment Group SA to serve as the bridge he always believed was needed: connecting North American capital and expertise with Paraguay's remarkable growth opportunities.",
       p3: 'His blend of Paraguayan heritage, international finance credentials, and entrepreneurial drive positions AIG to operate with both insider knowledge and institutional discipline.',
     },
     partner: {
@@ -66,12 +66,12 @@ const en = {
         name: 'Alcides Rios',
         title: 'Founder & Principal',
         initial: 'A',
-        bio: 'Born in Paraguay with over two decades of international business experience, Alcides brings a rare combination of cultural depth and corporate sophistication to AIG. His MBA in International Finance & Banking, combined with leadership roles at Kodak and other major corporations, laid the foundation for a distinguished entrepreneurial career culminating in the founding of American Investment Group Inc. in 2023.',
+        bio: 'Born in Paraguay with over two decades of international business experience, Alcides brings a rare combination of cultural depth and corporate sophistication to AIG. His MBA in International Finance & Banking, combined with leadership roles at Kodak and other major corporations, laid the foundation for a distinguished entrepreneurial career culminating in the founding of American Investment Group SA in 2023.',
         credentials: [
           'MBA — International Finance & Banking (1998)',
           'Senior leadership roles at Kodak & major multinational corporations',
           'Independent entrepreneur since 2015',
-          'Founder, American Investment Group Inc. (2023)',
+          'Founder, American Investment Group SA (2023)',
           'Paraguay market insider with cross-border capital expertise',
         ],
       },
@@ -240,13 +240,13 @@ const en = {
     },
     offices: {
       primaryName: 'Asunción, Paraguay',
-      primaryAddress: 'American Investment Group Inc.\nAsunción, República del Paraguay',
+      primaryAddress: 'American Investment Group SA\nAsunción, República del Paraguay',
       usName: 'United States',
-      usAddress: 'American Investment Group Inc.\nConnecticut & Florida Operations',
+      usAddress: 'American Investment Group SA\nConnecticut & Florida Operations',
       email: 'al.rios@amerinvesgroup.com',
     },
     disclaimer:
-      "American Investment Group Inc. is an independent investment firm focused on Paraguay's real estate and agricultural markets. All investments involve risk. Please consult a licensed financial advisor before making investment decisions.",
+      "American Investment Group SA is an independent investment firm focused on Paraguay's real estate and agricultural markets. All investments involve risk. Please consult a licensed financial advisor before making investment decisions.",
     form: {
       firstName: 'First Name',
       firstNamePlaceholder: 'James',
@@ -268,7 +268,7 @@ const en = {
       submit: 'Send Your Inquiry',
       submitting: 'Sending...',
       privacyNote:
-        'By submitting, you agree to be contacted by American Investment Group Inc. regarding your inquiry. We respect your privacy.',
+        'By submitting, you agree to be contacted by American Investment Group SA regarding your inquiry. We respect your privacy.',
     },
     success: {
       headline: 'Message Received',
@@ -300,10 +300,10 @@ const en = {
         { label: 'Regional Pipeline', href: '#portfolio' },
       ],
     },
-    copyright: '© {year} American Investment Group Inc. All rights reserved.',
+    copyright: '© {year} American Investment Group SA All rights reserved.',
     legalLinks: ['Privacy Policy', 'Terms of Use', 'Disclosures'],
     legalDisclaimer:
-      'American Investment Group Inc. is not a registered investment advisor. Content on this website is for informational purposes only and does not constitute investment advice or a solicitation to invest. All investments involve risk including potential loss of principal. Past performance is not indicative of future results. Please consult a licensed financial professional before making any investment decisions.',
+      'American Investment Group SA is not a registered investment advisor. Content on this website is for informational purposes only and does not constitute investment advice or a solicitation to invest. All investments involve risk including potential loss of principal. Past performance is not indicative of future results. Please consult a licensed financial professional before making any investment decisions.',
   },
 } as const
 

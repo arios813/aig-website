@@ -19,16 +19,16 @@ const dmSans = DM_Sans({
 })
 
 export const metadata: Metadata = {
-  title: 'American Investment Group Inc. | Paraguay Real Estate & Cattle Investment',
+  title: 'American Investment Group SA | Paraguay Real Estate & Cattle Investment',
   description:
-    "American Investment Group Inc. bridges North American expertise with Paraguay's emerging market opportunities in real estate and cattle ranching. Based in Asunción, founded by Alcides and Andrew Rios.",
+    "American Investment Group SA bridges North American expertise with Paraguay's emerging market opportunities in real estate and cattle ranching. Based in Asunción, founded by Alcides and Andrew Rios.",
   keywords: [
     'Paraguay investment',
     'real estate Paraguay',
     'cattle ranching investment',
     'Asunción real estate',
     'South America investment',
-    'AIG Inc',
+    'AIG SA',
     'American Investment Group',
     'Paraguay emerging market',
     'livestock investment',
@@ -38,21 +38,21 @@ export const metadata: Metadata = {
     'bienes raíces Paraguay',
     'ganadería Paraguay',
   ],
-  authors: [{ name: 'American Investment Group Inc.' }],
-  creator: 'American Investment Group Inc.',
-  publisher: 'American Investment Group Inc.',
+  authors: [{ name: 'American Investment Group SA' }],
+  creator: 'American Investment Group SA',
+  publisher: 'American Investment Group SA',
   metadataBase: new URL('https://americaninvestmentgroup.com'),
   openGraph: {
-    title: 'American Investment Group Inc.',
+    title: 'American Investment Group SA',
     description:
       'Investing in the Heart of South America — Real Estate & Cattle Ranching in Paraguay',
     type: 'website',
     locale: 'en_US',
-    siteName: 'American Investment Group Inc.',
+    siteName: 'American Investment Group SA',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'American Investment Group Inc.',
+    title: 'American Investment Group SA',
     description: 'Investing in the Heart of South America — Paraguay Real Estate & Cattle',
   },
   robots: {
