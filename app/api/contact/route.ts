@@ -7,13 +7,13 @@ export async function POST(request: Request) {
     const { firstName, lastName, email, interest, message } = await request.json()
 
     await resend.emails.send({
-      from: 'AIG Website <noreply@amerinvesgroup.com>',
+      from: 'AIG SA Website <noreply@amerinvesgroup.com>',
       to: ['al.rios@amerinvesgroup.com', 'andrew.rios@amerinvesgroup.com'],
       replyTo: email,
       subject: `New Inquiry: ${interest || 'General'} — ${firstName} ${lastName}`,
       html: `
         <div style="font-family: sans-serif; max-width: 600px; margin: 0 auto; padding: 24px;">
-          <h2 style="color: #0D1B2A; margin-bottom: 24px;">New Inquiry from AIG Website</h2>
+          <h2 style="color: #0D1B2A; margin-bottom: 24px;">New Inquiry from AIG SA Website</h2>
           <table style="width: 100%; border-collapse: collapse;">
             <tr>
               <td style="padding: 8px 0; color: #666; width: 120px;"><strong>Name</strong></td>

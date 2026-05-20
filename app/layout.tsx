@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     'cattle ranching investment',
     'Asunción real estate',
     'South America investment',
-    'AIG SA',
+    'AIG SA SA',
     'American Investment Group',
     'Paraguay emerging market',
     'livestock investment',

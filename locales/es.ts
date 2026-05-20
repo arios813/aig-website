@@ -41,14 +41,14 @@ const es: Translations = {
       name: 'Alcides Rios',
       p1: 'Nacido en Paraguay, Alcides Rios lleva una conexión profunda con su tierra natal que ha dado forma a cada capítulo de su vida profesional. Tras obtener su MBA en Finanzas Internacionales y Banca en 1998, construyó una distinguida carrera en grandes corporaciones como Kodak, donde perfeccionó su experiencia en operaciones comerciales globales y estrategia financiera.',
       p2: 'En 2015, Alcides abrazó el emprendimiento, aplicando su experiencia corporativa en la construcción de empresas que generan valor duradero. Luego, en 2023, un viaje decisivo de regreso a Paraguay reencendió su visión sobre el extraordinario potencial del país. Fundó American Investment Group SA para servir como el puente que siempre creyó necesario: conectar el capital y la experiencia norteamericana con las notables oportunidades de crecimiento de Paraguay.',
-      p3: 'Su combinación de herencia paraguaya, credenciales en finanzas internacionales y espíritu emprendedor posiciona a AIG para operar con conocimiento interno y disciplina institucional.',
+      p3: 'Su combinación de herencia paraguaya, credenciales en finanzas internacionales y espíritu emprendedor posiciona a AIG SA para operar con conocimiento interno y disciplina institucional.',
     },
     partner: {
       eyebrow: 'El Socio',
       name: 'Andrew Rios',
-      p1: 'Nacido y criado en los Estados Unidos, Andrew Rios representa la próxima generación del liderazgo de AIG. Se graduó de la Universidad de Connecticut en 2018 con un título en Economía, estableciendo la base analítica para su trabajo en inversiones y desarrollo de negocios.',
-      p2: 'Andrew ha construido un sólido historial en ventas, desarrollando las relaciones con clientes y las capacidades de negociación que son fundamentales para el modelo de asociación con inversores de AIG. Reconociendo el papel transformador de la tecnología en la inversión moderna, completó un curso de Inteligencia Artificial y Aprendizaje Automático en la Universidad de Texas, posicionando a AIG a la vanguardia del análisis de mercado basado en datos.',
-      p3: 'Actualmente enfocado en el mercado inmobiliario urbano de Asunción, Andrew está construyendo la base operativa para la expansión regional planificada de AIG a través de Paraguay y más allá. Su perspectiva norteamericana, combinada con profundos lazos familiares con Paraguay, lo hace especialmente idóneo para atender tanto a inversores nacionales como internacionales.',
+      p1: 'Nacido y criado en los Estados Unidos, Andrew Rios representa la próxima generación del liderazgo de AIG SA. Se graduó de la Universidad de Connecticut en 2018 con un título en Economía, estableciendo la base analítica para su trabajo en inversiones y desarrollo de negocios.',
+      p2: 'Andrew ha construido un sólido historial en ventas, desarrollando las relaciones con clientes y las capacidades de negociación que son fundamentales para el modelo de asociación con inversores de AIG SA. Reconociendo el papel transformador de la tecnología en la inversión moderna, completó un curso de Inteligencia Artificial y Aprendizaje Automático en la Universidad de Texas, posicionando a AIG SA a la vanguardia del análisis de mercado basado en datos.',
+      p3: 'Actualmente enfocado en el mercado inmobiliario urbano de Asunción, Andrew está construyendo la base operativa para la expansión regional planificada de AIG SA a través de Paraguay y más allá. Su perspectiva norteamericana, combinada con profundos lazos familiares con Paraguay, lo hace especialmente idóneo para atender tanto a inversores nacionales como internacionales.',
     },
     stats: [
       { value: '2023', label: 'Año de Fundación' },
@@ -61,14 +61,14 @@ const es: Translations = {
   // ── Equipo ─────────────────────────────────────────────────────────────────
   team: {
     sectionLabel: 'Liderazgo',
-    headline: 'El Equipo Detrás de AIG',
+    headline: 'El Equipo Detrás de AIG SA',
     credentialsLabel: 'Credenciales y Trayectoria',
     members: [
       {
         name: 'Alcides Rios',
         title: 'Fundador y Director Principal',
         initial: 'A',
-        bio: 'Nacido en Paraguay con más de dos décadas de experiencia empresarial internacional, Alcides aporta a AIG una combinación única de profundidad cultural y sofisticación corporativa. Su MBA en Finanzas y Banca Internacional, combinado con roles de liderazgo en Kodak y otras grandes corporaciones, sentó las bases de una destacada carrera emprendedora que culminó con la fundación de American Investment Group SA en 2023.',
+        bio: 'Nacido en Paraguay con más de dos décadas de experiencia empresarial internacional, Alcides aporta a AIG SA una combinación única de profundidad cultural y sofisticación corporativa. Su MBA en Finanzas y Banca Internacional, combinado con roles de liderazgo en Kodak y otras grandes corporaciones, sentó las bases de una destacada carrera emprendedora que culminó con la fundación de American Investment Group SA en 2023.',
         credentials: [
           'MBA — Finanzas Internacionales y Banca (1998)',
           'Roles de liderazgo en Kodak y grandes corporaciones multinacionales',
@@ -81,7 +81,7 @@ const es: Translations = {
         name: 'Andrew Rios',
         title: 'Cofundador y Socio',
         initial: 'A',
-        bio: 'Graduado en Economía de la Universidad de Connecticut (2018), Andrew combina una sólida formación analítica con experiencia demostrada en ventas y conocimientos tecnológicos de vanguardia. Su certificación en Inteligencia Artificial y Aprendizaje Automático de la Universidad de Texas refleja el compromiso de AIG con una estrategia de inversión moderna e informada por datos. Andrew lidera las operaciones de AIG en Asunción con una visión clara de expansión regional.',
+        bio: 'Graduado en Economía de la Universidad de Connecticut (2018), Andrew combina una sólida formación analítica con experiencia demostrada en ventas y conocimientos tecnológicos de vanguardia. Su certificación en Inteligencia Artificial y Aprendizaje Automático de la Universidad de Texas refleja el compromiso de AIG SA con una estrategia de inversión moderna e informada por datos. Andrew lidera las operaciones de AIG SA en Asunción con una visión clara de expansión regional.',
         credentials: [
           'Licenciatura en Economía — Universidad de Connecticut (2018)',
           'Certificado en IA y Aprendizaje Automático — Universidad de Texas',
@@ -114,7 +114,7 @@ const es: Translations = {
         number: '02',
         title: 'Ganadería y Cría de Ganado',
         description:
-          'Inversión operativa en el robusto sector agropecuario de Paraguay, aprovechando la posición del país entre los diez principales exportadores mundiales de carne. AIG gestiona operaciones ganaderas productivas con prácticas sostenibles y escalables.',
+          'Inversión operativa en el robusto sector agropecuario de Paraguay, aprovechando la posición del país entre los diez principales exportadores mundiales de carne. AIG SA gestiona operaciones ganaderas productivas con prácticas sostenibles y escalables.',
         points: [
           'Adquisición de tierras de pastoreo',
           'Gestión de operaciones ganaderas',
@@ -172,7 +172,7 @@ const es: Translations = {
         category: 'Agricultura',
         title: 'Operaciones Ganaderas en Paraguay',
         description:
-          'Inversiones ganaderas operativas en las fértiles regiones de pastizales de Paraguay. El país se encuentra entre los principales exportadores mundiales de carne, y las operaciones ganaderas de AIG están posicionadas para capturar tanto el crecimiento del consumo interno como la demanda de exportación internacional.',
+          'Inversiones ganaderas operativas en las fértiles regiones de pastizales de Paraguay. El país se encuentra entre los principales exportadores mundiales de carne, y las operaciones ganaderas de AIG SA están posicionadas para capturar tanto el crecimiento del consumo interno como la demanda de exportación internacional.',
         tags: ['Ganadería', 'Mercados de Exportación', 'Operaciones Sostenibles'],
         status: 'Active' as const,
         highlight: false,
@@ -190,7 +190,7 @@ const es: Translations = {
         category: 'Expansión',
         title: 'Cartera de Crecimiento Regional',
         description:
-          'Construyendo una plataforma de inversión regional que extiende el modelo de AIG hacia los mercados paraguayos adyacentes y países vecinos. Los cimientos que se están estableciendo en Asunción hoy son la base de una presencia regional mucho mayor.',
+          'Construyendo una plataforma de inversión regional que extiende el modelo de AIG SA hacia los mercados paraguayos adyacentes y países vecinos. Los cimientos que se están estableciendo en Asunción hoy son la base de una presencia regional mucho mayor.',
         tags: ['Paraguay', 'Regional', 'En Cartera', 'Largo Plazo'],
         status: 'Pipeline' as const,
         highlight: true,
@@ -203,11 +203,11 @@ const es: Translations = {
     sectionLabel: 'Voces de Inversores',
     headline: 'Lo Que Dicen Nuestros Socios',
     disclaimer:
-      '* Los testimonios son representativos de la experiencia de los inversores de AIG. Los resultados individuales pueden variar. El desempeño pasado no es indicativo de resultados futuros.',
+      '* Los testimonios son representativos de la experiencia de los inversores de AIG SA. Los resultados individuales pueden variar. El desempeño pasado no es indicativo de resultados futuros.',
     items: [
       {
         quote:
-          'AIG nos dio acceso a un mercado que nunca hubiéramos podido navegar por nuestra cuenta. El conocimiento de Alcides sobre Paraguay, combinado con el rigor analítico de Andrew, hizo que todo el proceso fuera transparente y altamente profesional. Hemos visto sólidos retornos tempranos en nuestras posiciones inmobiliarias.',
+          'AIG SA nos dio acceso a un mercado que nunca hubiéramos podido navegar por nuestra cuenta. El conocimiento de Alcides sobre Paraguay, combinado con el rigor analítico de Andrew, hizo que todo el proceso fuera transparente y altamente profesional. Hemos visto sólidos retornos tempranos en nuestras posiciones inmobiliarias.',
         author: 'Roberto M.',
         title: 'Inversor Privado — Connecticut',
         initials: 'RM',
@@ -221,7 +221,7 @@ const es: Translations = {
       },
       {
         quote:
-          'Paraguay ha estado en nuestro radar durante años, pero encontrar el socio local adecuado era la pieza que faltaba. AIG proporcionó exactamente eso — culturalmente fluido, financieramente sofisticado y genuinamente comprometido con construir relaciones a largo plazo con sus inversores.',
+          'Paraguay ha estado en nuestro radar durante años, pero encontrar el socio local adecuado era la pieza que faltaba. AIG SA proporcionó exactamente eso — culturalmente fluido, financieramente sofisticado y genuinamente comprometido con construir relaciones a largo plazo con sus inversores.',
         author: 'Santiago T.',
         title: 'Director de Family Office — Nueva York, NY',
         initials: 'ST',
@@ -275,7 +275,7 @@ const es: Translations = {
     },
     success: {
       headline: 'Mensaje Recibido',
-      body: 'Gracias por comunicarse con nosotros. Un miembro del equipo de AIG se pondrá en contacto dentro de un día hábil.',
+      body: 'Gracias por comunicarse con nosotros. Un miembro del equipo de AIG SA se pondrá en contacto dentro de un día hábil.',
     },
   },
 

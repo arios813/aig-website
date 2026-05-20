@@ -39,14 +39,14 @@ const en = {
       name: 'Alcides Rios',
       p1: 'Born in Paraguay, Alcides Rios carries a deep-rooted connection to his homeland that has shaped every chapter of his professional life. After earning his MBA in International Finance and Banking in 1998, he built a distinguished career spanning major corporations including Kodak, where he honed expertise in global business operations and financial strategy.',
       p2: "In 2015, Alcides embraced entrepreneurship — bringing his corporate experience to bear in building ventures that create lasting value. Then, in 2023, a pivotal return trip to Paraguay reignited his vision for the country's extraordinary potential. He founded American Investment Group SA to serve as the bridge he always believed was needed: connecting North American capital and expertise with Paraguay's remarkable growth opportunities.",
-      p3: 'His blend of Paraguayan heritage, international finance credentials, and entrepreneurial drive positions AIG to operate with both insider knowledge and institutional discipline.',
+      p3: 'His blend of Paraguayan heritage, international finance credentials, and entrepreneurial drive positions AIG SA to operate with both insider knowledge and institutional discipline.',
     },
     partner: {
       eyebrow: 'The Partner',
       name: 'Andrew Rios',
-      p1: "Born and raised in the United States, Andrew Rios represents the next generation of AIG's leadership. He graduated from the University of Connecticut in 2018 with a degree in Economics, laying the analytical foundation for his work in investment and business development.",
-      p2: "Andrew has built a strong track record in sales — developing the client relationships and deal-making capabilities that are central to AIG's investor partnership model. Recognizing the transformative role of technology in modern investment, he completed an AI and Machine Learning course at the University of Texas, positioning AIG at the forefront of data-driven market analysis.",
-      p3: "Currently focused on Asunción's urban real estate market, Andrew is building the operational groundwork for AIG's planned regional expansion across Paraguay and beyond. His North American perspective, combined with deep family ties to Paraguay, makes him uniquely suited to serve both domestic and international investors.",
+      p1: "Born and raised in the United States, Andrew Rios represents the next generation of AIG SA's leadership. He graduated from the University of Connecticut in 2018 with a degree in Economics, laying the analytical foundation for his work in investment and business development.",
+      p2: "Andrew has built a strong track record in sales — developing the client relationships and deal-making capabilities that are central to AIG SA's investor partnership model. Recognizing the transformative role of technology in modern investment, he completed an AI and Machine Learning course at the University of Texas, positioning AIG SA at the forefront of data-driven market analysis.",
+      p3: "Currently focused on Asunción's urban real estate market, Andrew is building the operational groundwork for AIG SA's planned regional expansion across Paraguay and beyond. His North American perspective, combined with deep family ties to Paraguay, makes him uniquely suited to serve both domestic and international investors.",
     },
     stats: [
       { value: '2023', label: 'Year Founded' },
@@ -59,14 +59,14 @@ const en = {
   // ── Team ───────────────────────────────────────────────────────────────────
   team: {
     sectionLabel: 'Leadership',
-    headline: 'The Team Behind AIG',
+    headline: 'The Team Behind AIG SA',
     credentialsLabel: 'Credentials & Background',
     members: [
       {
         name: 'Alcides Rios',
         title: 'Founder & Principal',
         initial: 'A',
-        bio: 'Born in Paraguay with over two decades of international business experience, Alcides brings a rare combination of cultural depth and corporate sophistication to AIG. His MBA in International Finance & Banking, combined with leadership roles at Kodak and other major corporations, laid the foundation for a distinguished entrepreneurial career culminating in the founding of American Investment Group SA in 2023.',
+        bio: 'Born in Paraguay with over two decades of international business experience, Alcides brings a rare combination of cultural depth and corporate sophistication to AIG SA. His MBA in International Finance & Banking, combined with leadership roles at Kodak and other major corporations, laid the foundation for a distinguished entrepreneurial career culminating in the founding of American Investment Group SA in 2023.',
         credentials: [
           'MBA — International Finance & Banking (1998)',
           'Senior leadership roles at Kodak & major multinational corporations',
@@ -79,7 +79,7 @@ const en = {
         name: 'Andrew Rios',
         title: 'Co-Founder & Partner',
         initial: 'A',
-        bio: "A University of Connecticut Economics graduate (2018), Andrew combines rigorous analytical training with proven sales expertise and cutting-edge technological acumen. His completion of an AI & Machine Learning course at the University of Texas reflects AIG's commitment to modern, data-informed investment strategy. Andrew leads AIG's Asunción operations with a clear vision for regional expansion.",
+        bio: "A University of Connecticut Economics graduate (2018), Andrew combines rigorous analytical training with proven sales expertise and cutting-edge technological acumen. His completion of an AI & Machine Learning course at the University of Texas reflects AIG SA's commitment to modern, data-informed investment strategy. Andrew leads AIG SA's Asunción operations with a clear vision for regional expansion.",
         credentials: [
           'B.A. Economics — University of Connecticut (2018)',
           'AI & Machine Learning Certificate — University of Texas',
@@ -112,7 +112,7 @@ const en = {
         number: '02',
         title: 'Cattle Ranching & Livestock',
         description:
-          "Operational investment in Paraguay's robust agricultural sector, leveraging the country's position as a top-ten global beef exporter. AIG manages productive livestock operations with sustainable, scalable practices.",
+          "Operational investment in Paraguay's robust agricultural sector, leveraging the country's position as a top-ten global beef exporter. AIG SA manages productive livestock operations with sustainable, scalable practices.",
         points: [
           'Pasture land acquisition',
           'Livestock operations management',
@@ -170,7 +170,7 @@ const en = {
         category: 'Agriculture',
         title: 'Paraguayan Cattle Operations',
         description:
-          "Operational livestock investments across Paraguay's fertile grassland regions. Paraguay ranks among the world's top beef exporters, and AIG's cattle operations are positioned to capture both domestic consumption growth and international export demand.",
+          "Operational livestock investments across Paraguay's fertile grassland regions. Paraguay ranks among the world's top beef exporters, and AIG SA's cattle operations are positioned to capture both domestic consumption growth and international export demand.",
         tags: ['Livestock', 'Export Markets', 'Sustainable Operations'],
         status: 'Active' as const,
         highlight: false,
@@ -188,7 +188,7 @@ const en = {
         category: 'Expansion',
         title: 'Regional Growth Pipeline',
         description:
-          "Building toward a regional investment platform that extends AIG's model into adjacent Paraguayan markets and neighboring countries. The groundwork being laid in Asunción today is the foundation for a much larger regional presence.",
+          "Building toward a regional investment platform that extends AIG SA's model into adjacent Paraguayan markets and neighboring countries. The groundwork being laid in Asunción today is the foundation for a much larger regional presence.",
         tags: ['Paraguay', 'Regional', 'Pipeline', 'Long-Term'],
         status: 'Pipeline' as const,
         highlight: true,
@@ -201,11 +201,11 @@ const en = {
     sectionLabel: 'Investor Voices',
     headline: 'What Our Partners Say',
     disclaimer:
-      '* Testimonials are representative of the AIG investor experience. Individual results may vary. Past performance is not indicative of future results.',
+      '* Testimonials are representative of the AIG SA investor experience. Individual results may vary. Past performance is not indicative of future results.',
     items: [
       {
         quote:
-          "AIG gave us access to a market we could never have navigated on our own. Alcides' knowledge of Paraguay, combined with Andrew's analytical rigor, made the entire process transparent and highly professional. We've seen strong early returns on our real estate positions.",
+          "AIG SA gave us access to a market we could never have navigated on our own. Alcides' knowledge of Paraguay, combined with Andrew's analytical rigor, made the entire process transparent and highly professional. We've seen strong early returns on our real estate positions.",
         author: 'Robert M.',
         title: 'Private Investor — Connecticut',
         initials: 'RM',
@@ -219,7 +219,7 @@ const en = {
       },
       {
         quote:
-          "Paraguay has been on our radar for years, but finding the right local partner was the missing piece. AIG provided exactly that — culturally fluent, financially sophisticated, and genuinely invested in building long-term relationships with their investors.",
+          "Paraguay has been on our radar for years, but finding the right local partner was the missing piece. AIG SA provided exactly that — culturally fluent, financially sophisticated, and genuinely invested in building long-term relationships with their investors.",
         author: 'James T.',
         title: 'Family Office Principal — New York, NY',
         initials: 'JT',
@@ -273,7 +273,7 @@ const en = {
     },
     success: {
       headline: 'Message Received',
-      body: 'Thank you for reaching out. A member of the AIG team will be in touch within one business day.',
+      body: 'Thank you for reaching out. A member of the AIG SA team will be in touch within one business day.',
     },
   },
 
